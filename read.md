@@ -2,4 +2,6 @@
 
 ---
 
-把其中的 Ledc.h,ledc.c,ledc_example.c 放入 PWM 同级的各个项目中。
+把其中的 Ledc.h,ledc.c,ledc_example.c 
+
+改了东西，不告诉你。
