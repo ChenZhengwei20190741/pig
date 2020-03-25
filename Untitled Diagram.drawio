@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T13:47:44.908Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="VoRLe7idOwe1x833iX0C" version="12.9.2" type="github"><diagram id="Vye4gCyO3f4bQ4ysf3Gl" name="Page-1">5Vpdc6M2FP01POIBYRv70XbittPdTqaZdnefMjLIoA0gKuTEya+vBBJfkmNnF9JuNi9BR4DEuefeq3sTy9ukx18ozOOPJESJBZzwaHlXFgDucunzXwJ5kojrSSSiOJRYA9ziZyRBR6IHHKKicyMjJGE474IByTIUsA4GKSWP3dv2JOmumsMIacBtABMd/YRDFlfoYuY0+K8IR7Fa2XXkTArVzRIoYhiSxxbkXVvehhLCqqv0uEGJYE/xUj23PTFbb4yijF3ywM3zX/A39HlT/Pn7dn9cwT9u/oa2pzbHntQXo5ATIIeEsphEJIPJdYOuKTlkIRKvdfiouecDITkHXQ5+RYw9SWvCAyMcilmayNlqTbHQyW+RUEEONEAvfIDSBKQRYi/cB/yaci5WRFLE6BN/kKIEMvzQ3QiUoonq+xpe+YWk9hU0y/c+wOQgV9Jof4wxQ7c5LL/2kXtTl7I9TpINSQjl44xkwgywyCvF7/FRWEPS+oAoQ8eXidV5kA8spB6kuwKl5sdG+3OFxS3dT5VDDE4d+G7qxuDJBT2iFjpRwDMQVYODEzU9TxQPQbm4xGkZ9dokCTYwD3urBEcZx5hw5Rr9AHcouSEFZpiI2R1hjKT8hkRMrGFwH5VBQSnUAt6+/OG3lIutlA0ck0Hkfq5ixkRYXwkiwDYIM2eCeWDfYx5u6CTgK4JtCBnkvwReCJ4ORYJTm1uOCS/beoJFx7+z76qZuxyRPEF3KcokgjPbBYtJnkVD6GDqTGYdJXhOjbS04C6WuhZqcHAtLA1amCd82fWOX0SsdIIK2BP+pW2VzP85EDVhF2UI5wZxAMiPzaR6y6FAlE9mMEXW9dZab6zl6jmGWVTATK3Av6BapLswh1ub6SmVW4R1BVowSu5RLwSaoqIUcMAtyPemKzvFYVimMVPY6Ka2AQTizXqBYq4HCs81BIrlWHFCLfZSoOjS8PrUNARxfo84X/cq4BuIm49GnCmLv9KJ5iYnukG0EOcnsYFsTyg/Ooowe8p9vvvgMIR1egcFzyDr2hJvk//cuWae9YGnqUxjLOllMy1U9NNdHTK04NIOUDK5psdI1EKTHSxwMNlVW/DWZU3kOqNZpH8imc10i7imo9t4/rL4qQ0Cpv83g3iuxvwbFHvoiNln8Tg/FlWjL/Jl4vrq2B48qUHGv7f1kBh+Ue8Tg+axcqSes4YrLJU7na0sT6jgbQpLcEEyf4enfpzH3E9t34aY5iQsbDUBpqIGCG1GDkFsg/qkP1oeVFlHOvl8aXBysNCdvAaHl4R3XhI/Vo8HXNrk+W9d8YImj8H1TjqZltou8DqzP1elk2pfAq2YskTRKn6qpFl1KcUghEVca6CfTjEp/NJRi0nAyz8Kx3My0C2xfYOPmUqo0RIp8N9h1PXORt0EZ0hc2nuKkP3A30toFXltXn7cq+5LIXbXirynxTaOXPxeye0t9MpxYZDLYrRzl6mH2Skcg5qcpjbkVp2G4nzYQOcLTNc3FpifPl5aTb6bxsvc76tAjxpLgwr80VRgysuvax+4xvZBEXB3vLhd8G4MvOz1h1zdvlNTA2I0+5oa8EPYV2bXb7bv5XajiO8F7spXCSvlBGes5Gm2tmZX4l38nFftt3XIG7ST5Hq6HU1tvvHsqPeRhrFjWZP8dG4KenHYN9h3ID/lw+bP6eVc678SvOt/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-25T13:49:28.461Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="ZMGrDFZf82gczC-goDUl" version="12.9.2" type="github">
+  <diagram id="Vye4gCyO3f4bQ4ysf3Gl" name="Page-1">
+    <mxGraphModel dx="1997" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PzUaIeXCsRKFfxAaNPVa-1" target="PzUaIeXCsRKFfxAaNPVa-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-1" value="" style="whiteSpace=wrap;html=1;fillColor=none;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="600" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/muslim-part-1/32/07_-_muslim_people_men_muslimin-128.png" parent="1" vertex="1">
+          <mxGeometry x="140.5" y="300.5" width="189" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;user name：zhangsan&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="260" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="275" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-11" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Personal information&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="360" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-16" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-18" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PzUaIeXCsRKFfxAaNPVa-20" target="PzUaIeXCsRKFfxAaNPVa-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iphone-7-airpods-icons/24/3d-touch-2-128.png;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="316" y="690" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PzUaIeXCsRKFfxAaNPVa-21" target="PzUaIeXCsRKFfxAaNPVa-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-21" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.camera;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="325" y="70" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/sound-128.png;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="385" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-32" value="&lt;font color=&quot;#ff4d00&quot; style=&quot;font-size: 17px&quot;&gt;PWM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="380" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-33" value="&lt;font style=&quot;font-size: 16px&quot;&gt;screen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-34" value="&lt;font style=&quot;font-size: 16px&quot;&gt;camera&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PzUaIeXCsRKFfxAaNPVa-36" value="&lt;font style=&quot;font-size: 16px&quot;&gt;touch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
